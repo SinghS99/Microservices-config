@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Singh Sandeep - Product Owner"
     email: "{cipher}a5255cb8287442229597229b8716a4bead38db7da908afb77beb111495301643587c1c580bb1e19b8316a20b20a7151f"
